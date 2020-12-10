@@ -15,7 +15,7 @@ spring:
       discovery:
         service-name: ${spring.application.name}
 config:
-  info: 123
+  info: 333
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
